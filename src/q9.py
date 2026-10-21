@@ -34,5 +34,6 @@ Step 6 (short answer). You run `git status` and it says
 and which command moves a file from there into the next commit?
 
 Answer:
-It tells me that any changes that have been made have not yet been staged, and therefore changes are not ready to commit. To stage a file, I can use 'git add <name of file>'
+It tells me that any changes that have been made have not yet been staged, and therefore changes are not ready to commit. 
+To stage a file, I can use 'git add <name of file>'
 """
